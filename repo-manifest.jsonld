@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/open_asr_leaderboard/commit/a768a2c7d3b911dcdddd1a0b5c39fec4ae21336a",
       "git:hexsha": "a768a2c7d3b911dcdddd1a0b5c39fec4ae21336a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T22:08:31.430004+00:00"
     }
   ]
 }
